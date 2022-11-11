@@ -6,6 +6,7 @@ import { PlusCircle, SoccerBall, SignOut } from 'phosphor-react-native'
 import { New } from '../screens/New';
 import { Polls } from '../screens/Polls';
 import { Find } from '../screens/Find';
+import { Details } from '../screens/Details';
 import { SignOutUser } from '../screens/SignOut';
 import { useAuth } from '../hooks/useAuth';
 
@@ -55,6 +56,12 @@ export function AppRoutes() {
       <Screen
         name="find"
         component={Find}
+        options={{ tabBarButton: () => null }}
+      />
+
+      <Screen
+        name="details"
+        component={Details}
         options={{ tabBarButton: () => null }}
       />
 
