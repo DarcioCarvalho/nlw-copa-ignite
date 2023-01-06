@@ -50,5 +50,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 </p>
 
 <p align="center">
-  Desenvolvido by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+  Desenvolvido by Rocketseat :wave: <a href="https://discord.gg/rocketseat">Participe da nossa comunidade!</a> 
 </p>
